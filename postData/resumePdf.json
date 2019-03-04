@@ -1,0 +1,11 @@
+{
+    "id": "resumePdf"
+    , "path": "/resume/pdf"
+    , "title": "PDF"
+    , "desc": "Get the document"
+    , "tagline": "Documentation"
+    , "bgImg": "resumePdf.jpg"
+    , "blurb": [
+        {"a": {"href": "/LIresume.pdf", "text": "Download Resume PDF"}}
+    ]
+}

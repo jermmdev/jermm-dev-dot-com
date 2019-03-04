@@ -1,0 +1,12 @@
+{
+    "id": "onTheWeb"
+    , "path": "/onTheWeb"
+    , "title": "On The Web"
+    , "desc": "See JermmDev around the web"
+    , "tagline": "visit me elsewhere"
+    , "bgImg": "onTheWeb.jpg"
+    , "blurb": [
+        {"a": {"href": "https://www.linkedin.com/in/jerry-morris-7b1a1289/", "text": "LinkedIn"}}
+        , {"a": {"href": "https://www.facebook.com/jermm.dev", "text": "Facebook"}}
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "cognito"
+    , "path": "/cognito"
+    , "title": "Congito Logins"
+    , "desc": "See me in action with the 'Sign In' button in the top right corner menu"
+    , "tagline": "A Secure, Hosted Login Portal through AWS's Cognito"
+    , "bgImg": "cognito.jpg"
+    , "blurb": [
+        {"p": "The hosted UI takes the headache out of managing login security concerns."}
+        , {"p": "Send the user to log in to Amazon Cognito's UI, then accept Cognito's response."}
+        , {"p": "It is heavily customizable, allowing for all of the functionality of a custom UI (which is also possible)."}
+        , {"p": "Cognito user groups can be assigned IAM permissions to allow access to other AWS resources."}
+        , {"p": "Try it out in the menu."}
+    ]
+}

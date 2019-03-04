@@ -1,0 +1,20 @@
+{
+    "id": "resumeSkills"
+    , "path": "/resume/skills"
+    , "title": "Skills"
+    , "desc": "See my professional skillset"
+    , "tagline": "To Pay The Bills"
+    , "bgImg": "resumeSkills.jpg"
+    , "blurb": [
+        {"h": "Programming"}
+        , {"p": "Languages: C#, JavaScript, HTML, CSS, PHP, TypeScript"}
+        , {"p": "Frameworks: Node.js, ASP.NET, MVC5"}
+        , {"p": "Data: SQL, MySql, JSON, DynamoDB"}
+        , {"p": "Front: DevExpress, Razor, Angular, React, React-Native, GIMP"}
+        , {"p": "Automation: Selenium, AutoIt"}
+        , {"h": "Mathematics"}
+        , {"p": "JermmDev has a strong background in Mathematics and a strong understanding of logical principles.  This translates not only to efficient numerical calculations, but also efficient logical approaches.  Strong proofing skills lend themelves to strong programming skills, making JermmDev a strong candidate for optimizing any code base."}
+        , {"h": "Bilingual - Spanish"}
+        , {"p": "JermmDev has experience in several immersive Spanish-speaking environments and has achieved a moderate mastery of the language."}
+    ]
+}

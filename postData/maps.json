@@ -1,0 +1,21 @@
+
+
+{
+    "id": "maps"
+    , "path": "/map-data"
+    , "title": "Map Data"
+    , "desc": "Plot generic data onto a map."
+    , "tagline": "Pigeon Maps with Mapquest Geolocation"
+    , "bgImg": "maps.jpg"
+    , "blurb": [
+        {"h": "Plot Data on a Map"}
+        , {"p": "This app is for plotting any generic data onto a map for processing."}
+        , {"a": {"href": "https://www.npmjs.com/package/pigeon-maps", "text": "pigeon-maps on NPM"}}
+        , {"p": "I used pigeon maps for the map UI..."}
+        , {"a": {"href": "https://www.npmjs.com/package/mapquest", "text": "mapquest on NPM"}}
+        , {"p": "... and mapquest geocoder."}
+        , {"p": "The demo is loaded with software jobs in the Denver area."}
+        , {"a": {"href": "https://github.com/jermmdev/jermm-maps", "text": "Jermm Maps Source on GitHub"}}
+        , {"a": {"href": "http://jermm-maps.s3-website-us-east-1.amazonaws.com/", "text": "Jermm Maps Demo"}}
+    ]
+}

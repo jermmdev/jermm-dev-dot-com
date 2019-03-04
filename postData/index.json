@@ -1,0 +1,9 @@
+{
+    "id": "index"
+    , "path": "/"
+    , "title": "JermmDev"
+    , "desc": "A little collection of my projects and experience"
+    , "tagline": "JermmDev of the Web"
+    , "bgImg": "index.png"
+    , "links": [{"id": "dataManager"},{"id": "maps"},{"id": "thisPage"},{"id": "cognito"},{"id": "onTheWeb"},{"id": "resume"}]
+}

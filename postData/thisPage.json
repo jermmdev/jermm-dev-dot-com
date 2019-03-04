@@ -1,0 +1,13 @@
+{
+    "id": "thisPage"
+    , "path": "/this-page"
+    , "title": "Gatsby Post Parser"
+    , "desc": "A blog parser to make sites like these."
+    , "tagline": "Forty Blogging"
+    , "bgImg": "thisPage.jpg"
+    , "blurb": [
+        {"h": "Quick Loading Blogs"}
+        , {"p": "This app latches into the gatsby node.createPages function to convert json data objects to a linked site."}
+        , {"a": {"href": "https://github.com/jermmdev/jermm-dev-dot-com", "text": "This Site Source on GitHub"}}
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "id": "dataManager"
+    , "path": "/data-manager"
+    , "title": "JSON Data Manager"
+    , "desc": "A file system JSON indexing system."
+    , "tagline": "Categorize and manipulate JSON data."
+    , "bgImg": "dataManager.jpg"
+    , "blurb": [
+        {"h": "Manage a JSON file system database"}
+        , {"p": "This app connects to a simple express server (currently hosted on an old android phone) to manipulate a JSON filesystem."}
+        , {"p": "The files are opened up to the local network over an FTP connection.  express server constantly checks for new files."}
+        , {"p": "Since the front end is Gatsby compiled, it loads very quickly.  Only data operations are really subject to network delays.  This matches user expectation."}
+        , {"a": {"href": "https://github.com/jermmdev/data-manager", "text": "Data Manager Source on GitHub"}}
+        , {"a": {"href": "http://jermm-movies.s3-website-us-east-1.amazonaws.com/", "text": "Jermm Movies Demo"}}
+    ]
+}

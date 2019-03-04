@@ -1,0 +1,9 @@
+{
+    "id": "resume"
+    , "path": "/resume"
+    , "title": "Resume"
+    , "desc": "See my skills, experience, and education."
+    , "tagline": "JermmDev's Resume"
+    , "bgImg": "resume.jpg"
+    , "links": [{"id": "resumeEducation"},{"id": "resumeSkills"},{"id": "resumeExperience"},{"id":"resumePdf"}]
+}

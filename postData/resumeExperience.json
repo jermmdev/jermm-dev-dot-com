@@ -1,0 +1,29 @@
+{
+    "id": "resumeExperience"
+    , "path": "/resume/experience"
+    , "title": "Experience"
+    , "desc": "See my work experience"
+    , "tagline": "Elbow Grease"
+    , "bgImg": "resumeExperience.jpg"
+    , "blurb": [
+        {"h": "MoYa Cloud"}
+        , {"p": "Cloud Architect 2018-Present"}
+        , {"p": "There are currently a variety of AI incentives being offered by the Chinese government, and the education system is overwhelmed with the repealing of the one child policy.  Headmaster Meng at 汤姆叔叔 in Nanchong, Sichuan, China has invented a rough concept and secured investors to begin building what we've currently dubbed \"LearnBots\", an educational software platform designed to automate and optimize student learning through primary and secondary education."}
+        , {"h": "Apex Systems"}
+        , {"p": "Software Engineer 2017-2018"}
+        , {"p": "During my time working through Apex Systems, I assisted in the development of a Bayesian smart portal to access various company resources.  My role was in creating learning algorithms, front end tools, and integrating with pre-existing systems."}
+        , {"h": "Hospicelink"}
+        , {"p": "Application Developer 2015-2017"}
+        , {"p": "QA Analyst 2014-2015"}
+        , {"p": "Hospicelink began as a small company, ~30 members at the time of my joining (~250 at the time of this writing), so I was made to wear many hats.  My role began in QA/Support.  I was soon given a role generating SQL reports.  Eventually, I was moved to the development team to write code full time."}
+        , {"h": "SuccessEHS"}
+        , {"p": "QA Specialist 2012-2014"}
+        , {"p": "Tested thoroughly and with ingenuity to ensure the software was to the highest possible standard before shipping it out. Also worked with Product Managers to design improvements and with the automation team to optimize testing."}
+        , {"h": "Foodimentary"}
+        , {"p": "Web Designer 2009-2012"}
+        , {"p": "Helped manage social media marketing and managed all technical aspects of the web entity Foodimentary.com. During this time, I worked heavily with Wordpress. I learned a great deal about CSS and PHP while working through various issues. I also learned a lot about SSH, which made it extremely easy to make small changes to the Wordpress software to fit the needs of my boss. I also did a great deal of graphic design work here."}
+        , {"h": "University of Alabama at Birmingham"}
+        , {"p": "Lab Technician 2009-2012"}
+        , {"p": "Repairing and maintaining faculty and lab equipment for the education department at UAB."}
+    ]
+}

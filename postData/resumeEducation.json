@@ -1,0 +1,15 @@
+{
+    "id": "resumeEducation"
+    , "path": "/resume/education"
+    , "title": "Education"
+    , "desc": "See my educational past"
+    , "tagline": "Brain learnin"
+    , "bgImg": "resumeEducation.jpg"
+    , "blurb": [
+        {"h": "Davidson College"}
+        , {"p": "Attended on Brian Scholarship"}
+        , {"h": "University of Alabama at Birmingham"}
+        , {"p": "B.S. in Mathematics"}
+        , {"p": "B.S. in Education"}
+    ]
+}
